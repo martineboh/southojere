@@ -6,6 +6,7 @@
 [<img align="left" alt="jeremy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
+<br />
 
 ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=southojere&hide=Jupyter%20Notebook&layout=compact)
 

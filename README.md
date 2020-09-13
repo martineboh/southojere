@@ -24,5 +24,5 @@
 <br />
 
 
-[website]: https://jeremysouthon.com
-[linkedin]: https://au.linkedin.com/in/jeremy-southon-559a93176
+![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=southojere&hide=Jupyter%20Notebook&layout=compact)
+![Github stats](https://github-readme-stats.vercel.app/api?username=southojere&show_icons=true)
